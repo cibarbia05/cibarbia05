@@ -17,7 +17,5 @@ complexity humans don't want to think about.
 
 ## What I'm Into
 - Pushing agentic AI from prototype → production
+- Solving novel problems
 - Competitive programming
----
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cibarbia05&show_icons=true&theme=dark&hide_border=true)](https://github.com/cibarbia05)
