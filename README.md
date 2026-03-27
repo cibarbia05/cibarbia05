@@ -1,5 +1,5 @@
 # Hey, I'm Christian 👋
-🤖 AI/ML Fullstack Builder | ☁️ Ex-Google · Johnson Controls
+🤖 AI/ML Fullstack Engineer | ☁️ Ex-Google · Johnson Controls
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
