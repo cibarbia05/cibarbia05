@@ -23,6 +23,6 @@ complexity humans don't want to think about.
 ---
 
 ## What I'm Into
-- Pushing agentic AI from prototype → production
+- Pushing agentic AI from prototype to production
 - Solving novel problems
 - Competitive programming
